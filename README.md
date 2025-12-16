@@ -205,25 +205,13 @@ After setup, test these features:
 3. **Basic Search** - Only searches by title, no filters
 4. **No Pagination** - Single page of results
 
-### With More Time
-
-#### High Priority
+#### Working on
 - User Authentication (NextAuth.js)
 - Database Persistence (PostgreSQL with Prisma)
 - Advanced Search Filters (genre, year, rating)
 - Pagination for search results
 
-#### Medium Priority
-- Multiple Lists/Collections
-- Social Features (share favorites)
-- Watch Later Queue
-- Export/Import favorites
 
-#### Nice to Have
-- Offline Mode with service workers
-- Animations and transitions
-- Dark/Light theme toggle
-- Movie Trailers (YouTube embeds)
 
 ## 📝 License
 
