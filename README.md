@@ -7,6 +7,7 @@ A modern web application for searching movies, viewing details, and managing you
 
 - 🔍 **Search Movies** - Search by title using TMDB API
 - 📋 **Movie Details** - View comprehensive information including runtime, overview, and posters
+- 🎬 **Watch Trailers** - Direct links to official movie trailers
 - ❤️ **Favorites Management** - Add/remove movies to your favorites list
 - ⭐ **Personal Ratings** - Rate movies from 1-5 stars
 - 📝 **Notes** - Add personal notes to your favorite movies
