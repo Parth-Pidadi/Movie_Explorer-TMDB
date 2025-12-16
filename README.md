@@ -1,7 +1,8 @@
 # 🎬 Movie Explorer
 
-A modern web application for searching movies, viewing details, and managing your favorite films with personal ratings and notes.
+**🚀 Live Demo:** [https://movie-explorer-av62.vercel.app](https://movie-explorer-av62.vercel.app)
 
+A modern web application for searching movies, viewing details, and managing your favorite films with personal ratings and notes.
 ## 📋 Features
 
 - 🔍 **Search Movies** - Search by title using TMDB API
